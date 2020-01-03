@@ -6,5 +6,7 @@ public class test1 {
 	String s = "abc";
 
 	int a =10;
+	
+	System.out.println(a);
 }
 }
